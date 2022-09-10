@@ -1,0 +1,15 @@
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/bin/Debug/net6.0/AUCodeOp-Mail
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/bin/Debug/net6.0/AUCodeOp-Mail.deps.json
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/bin/Debug/net6.0/AUCodeOp-Mail.runtimeconfig.json
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/bin/Debug/net6.0/AUCodeOp-Mail.dll
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/bin/Debug/net6.0/AUCodeOp-Mail.pdb
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.csproj.AssemblyReference.cache
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.AssemblyInfoInputs.cache
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.AssemblyInfo.cs
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.csproj.CoreCompileInputs.cache
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.dll
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/refint/AUCodeOp-Mail.dll
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.pdb
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/AUCodeOp-Mail.genruntimeconfig.cache
+/Users/madaxweyne/Documents/Computer-Science/3rd-Semester/Software Technology/AUCodeOp-Mail/src/obj/Debug/net6.0/ref/AUCodeOp-Mail.dll
